@@ -8,7 +8,7 @@ Desarrollado en Python usando Jupyter.
 $ jupyter notebook main.ipynb
 ```
 
-## Imágenes obtenidas
+## Data
 
 Através del Landsat de la página [Earth Explorer](https://earthexplorer.usgs.gov/).
 
