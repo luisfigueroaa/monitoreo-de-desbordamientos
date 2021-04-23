@@ -7,3 +7,11 @@ Desarrollado en Python usando Jupyter.
 ```
 $ jupyter notebook main.ipynb
 ```
+
+## Imágenes obtenidas
+
+Através del Landsat de la página [Earth Explorer](https://earthexplorer.usgs.gov/).
+
+## Coordenadas del Rio Madre de Dios
+
+> -12.5902, -69.1644
