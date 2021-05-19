@@ -4,7 +4,14 @@ Abrir este proyecto desde colab: [![Open In Colab](https://colab.research.google
 
 Desarrollado en Python usando Jupyter.
 
+## Requerimientos
+
+- Python 3
+- Jupyterlab
+
 ## Uso
+
+Puedes clonar este repositorio 
 
 ```
 $ jupyter notebook main.ipynb
@@ -12,7 +19,7 @@ $ jupyter notebook main.ipynb
 
 ## Data
 
-Através del Landsat de la página [Earth Explorer](https://earthexplorer.usgs.gov/).
+Obtenida através del Landsat de la página [Earth Explorer](https://earthexplorer.usgs.gov/).
 
 ## Coordenadas del Rio Madre de Dios
 
