@@ -11,11 +11,13 @@ Desarrollado en Python usando Jupyter.
 
 ## Uso
 
-Puedes clonar este repositorio 
+Se puede clonar este repositorio y abrir el documento con el siguiente comando: 
 
 ```
 $ jupyter notebook main.ipynb
 ```
+
+O abrir desde el enlace superior de Google Colab y crear una copia.
 
 ## Data
 
