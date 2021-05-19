@@ -1,6 +1,6 @@
 # Sistema de detección y monitoreo de desbordamientos de ríos
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luisfigueroaa/monitoreo-de-desbordamientos/blob/main/main.ipynb)
+Abrir este proyecto desde colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/luisfigueroaa/monitoreo-de-desbordamientos/blob/main/main.ipynb)
 
 Desarrollado en Python usando Jupyter.
 
